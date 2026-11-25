@@ -3,6 +3,7 @@
   "rootNamespace": "Rolite.Core",
   "references": [
     "Rolite.Shared",
+    "Unity.Burst",
     "Unity.Collections",
     "Unity.Entities"
   ],

@@ -35,3 +35,8 @@ Bir modül başka bir mekaniğin sistem sınıfını çağırmaz. İletişim, sa
 tanımladığı `IComponentData`, `IBufferElementData` veya tek-frame event buffer'ı
 ile yapılır. Henüz kaynak kodu olmayan modüllerin asmdef'leri kasten bağımlılıksız
 başlatıldı; ilgili modül uygulanırken yalnızca gereken referans eklenecek.
+
+Her modülün veri sahipliği, event sınırları, planlanan sistem sırası ve Core akışının
+chunk/query ayrıntıları için [ModuleArchitecture.md](Documentation/ModuleArchitecture.md) belgesine bakın.
+Core'ta kullanılan ECS API'lerinin teknik ve başlangıç seviyesi açıklamaları için de
+[CoreEcsPrimer.md](Documentation/CoreEcsPrimer.md) belgesine bakın.
