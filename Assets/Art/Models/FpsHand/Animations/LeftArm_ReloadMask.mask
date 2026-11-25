@@ -11,145 +11,145 @@ AvatarMask:
   m_Elements:
   - m_Path: 
     m_Weight: 1
-  - m_Path: FPSHands
+  - m_Path: FPSSHandsAnimations
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint
+  - m_Path: FPSSHandsAnimations/_rootJoint
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/Bone_043
+  - m_Path: FPSSHandsAnimations/_rootJoint/Bone_043
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/Bone_043/carg_044
+  - m_Path: FPSSHandsAnimations/_rootJoint/Bone_043/carg_044
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/Bone_043/carg_044/carg_044_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/Bone_043/carg_044/carg_044_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/Bone_043/gatillo_047
+  - m_Path: FPSSHandsAnimations/_rootJoint/Bone_043/gatillo_047
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/Bone_043/gatillo_047/gatillo_047_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/Bone_043/gatillo_047/gatillo_047_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/Bone_043/recam_045
+  - m_Path: FPSSHandsAnimations/_rootJoint/Bone_043/recam_045
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/Bone_043/recam_045/recam_045_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/Bone_043/recam_045/recam_045_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/Bone_043/seg_046
+  - m_Path: FPSSHandsAnimations/_rootJoint/Bone_043/seg_046
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/Bone_043/seg_046/seg_046_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/Bone_043/seg_046/seg_046_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/carg2_048
+  - m_Path: FPSSHandsAnimations/_rootJoint/carg2_048
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/carg2_048/carg2_048_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/carg2_048/carg2_048_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:LeftArm.001_041
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:LeftArm.001_041
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:LeftArm.001_041/mixamorig7:LeftArm.001_041_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:LeftArm.001_041/mixamorig7:LeftArm.001_041_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:LeftHand.001_039
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:LeftHand.001_039
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:LeftHand.001_039/mixamorig7:LeftHand.001_039_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:LeftHand.001_039/mixamorig7:LeftHand.001_039_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandIndex1_00
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandIndex1_00
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandIndex1_00/mixamorig7:LeftHandIndex2_09
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandIndex1_00/mixamorig7:LeftHandIndex2_09
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandIndex1_00/mixamorig7:LeftHandIndex2_09/mixamorig7:LeftHandIndex3_010
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandIndex1_00/mixamorig7:LeftHandIndex2_09/mixamorig7:LeftHandIndex3_010
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandIndex1_00/mixamorig7:LeftHandIndex2_09/mixamorig7:LeftHandIndex3_010/mixamorig7:LeftHandIndex3_010_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandIndex1_00/mixamorig7:LeftHandIndex2_09/mixamorig7:LeftHandIndex3_010/mixamorig7:LeftHandIndex3_010_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandMiddle1_011
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandMiddle1_011
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandMiddle1_011/mixamorig7:LeftHandMiddle2_012
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandMiddle1_011/mixamorig7:LeftHandMiddle2_012
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandMiddle1_011/mixamorig7:LeftHandMiddle2_012/mixamorig7:LeftHandMiddle3_013
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandMiddle1_011/mixamorig7:LeftHandMiddle2_012/mixamorig7:LeftHandMiddle3_013
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandMiddle1_011/mixamorig7:LeftHandMiddle2_012/mixamorig7:LeftHandMiddle3_013/mixamorig7:LeftHandMiddle3_013_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandMiddle1_011/mixamorig7:LeftHandMiddle2_012/mixamorig7:LeftHandMiddle3_013/mixamorig7:LeftHandMiddle3_013_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandPinky1_017
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandPinky1_017
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandPinky1_017/mixamorig7:LeftHandPinky2_018
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandPinky1_017/mixamorig7:LeftHandPinky2_018
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandPinky1_017/mixamorig7:LeftHandPinky2_018/mixamorig7:LeftHandPinky3_019
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandPinky1_017/mixamorig7:LeftHandPinky2_018/mixamorig7:LeftHandPinky3_019
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandPinky1_017/mixamorig7:LeftHandPinky2_018/mixamorig7:LeftHandPinky3_019/mixamorig7:LeftHandPinky3_019_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandPinky1_017/mixamorig7:LeftHandPinky2_018/mixamorig7:LeftHandPinky3_019/mixamorig7:LeftHandPinky3_019_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandRing1_014
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandRing1_014
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandRing1_014/mixamorig7:LeftHandRing2_015
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandRing1_014/mixamorig7:LeftHandRing2_015
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandRing1_014/mixamorig7:LeftHandRing2_015/mixamorig7:LeftHandRing3_016
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandRing1_014/mixamorig7:LeftHandRing2_015/mixamorig7:LeftHandRing3_016
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandRing1_014/mixamorig7:LeftHandRing2_015/mixamorig7:LeftHandRing3_016/mixamorig7:LeftHandRing3_016_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandRing1_014/mixamorig7:LeftHandRing2_015/mixamorig7:LeftHandRing3_016/mixamorig7:LeftHandRing3_016_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandThumb1_06
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandThumb1_06
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandThumb1_06/mixamorig7:LeftHandThumb2_07
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandThumb1_06/mixamorig7:LeftHandThumb2_07
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandThumb1_06/mixamorig7:LeftHandThumb2_07/mixamorig7:LeftHandThumb3_08
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandThumb1_06/mixamorig7:LeftHandThumb2_07/mixamorig7:LeftHandThumb3_08
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandThumb1_06/mixamorig7:LeftHandThumb2_07/mixamorig7:LeftHandThumb3_08/mixamorig7:LeftHandThumb3_08_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:LeftShoulder_02/mixamorig7:LeftArm_03/mixamorig7:LeftForeArm_04/mixamorig7:LeftHand_05/mixamorig7:LeftHandThumb1_06/mixamorig7:LeftHandThumb2_07/mixamorig7:LeftHandThumb3_08/mixamorig7:LeftHandThumb3_08_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandIndex1_027
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandIndex1_027
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandIndex1_027/mixamorig7:RightHandIndex2_028
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandIndex1_027/mixamorig7:RightHandIndex2_028
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandIndex1_027/mixamorig7:RightHandIndex2_028/mixamorig7:RightHandIndex3_029
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandIndex1_027/mixamorig7:RightHandIndex2_028/mixamorig7:RightHandIndex3_029
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandIndex1_027/mixamorig7:RightHandIndex2_028/mixamorig7:RightHandIndex3_029/mixamorig7:RightHandIndex3_029_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandIndex1_027/mixamorig7:RightHandIndex2_028/mixamorig7:RightHandIndex3_029/mixamorig7:RightHandIndex3_029_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandMiddle1_030
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandMiddle1_030
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandMiddle1_030/mixamorig7:RightHandMiddle2_031
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandMiddle1_030/mixamorig7:RightHandMiddle2_031
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandMiddle1_030/mixamorig7:RightHandMiddle2_031/mixamorig7:RightHandMiddle3_032
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandMiddle1_030/mixamorig7:RightHandMiddle2_031/mixamorig7:RightHandMiddle3_032
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandMiddle1_030/mixamorig7:RightHandMiddle2_031/mixamorig7:RightHandMiddle3_032/mixamorig7:RightHandMiddle3_032_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandMiddle1_030/mixamorig7:RightHandMiddle2_031/mixamorig7:RightHandMiddle3_032/mixamorig7:RightHandMiddle3_032_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandPinky1_036
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandPinky1_036
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandPinky1_036/mixamorig7:RightHandPinky2_037
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandPinky1_036/mixamorig7:RightHandPinky2_037
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandPinky1_036/mixamorig7:RightHandPinky2_037/mixamorig7:RightHandPinky3_038
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandPinky1_036/mixamorig7:RightHandPinky2_037/mixamorig7:RightHandPinky3_038
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandPinky1_036/mixamorig7:RightHandPinky2_037/mixamorig7:RightHandPinky3_038/mixamorig7:RightHandPinky3_038_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandPinky1_036/mixamorig7:RightHandPinky2_037/mixamorig7:RightHandPinky3_038/mixamorig7:RightHandPinky3_038_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandRing1_033
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandRing1_033
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandRing1_033/mixamorig7:RightHandRing2_034
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandRing1_033/mixamorig7:RightHandRing2_034
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandRing1_033/mixamorig7:RightHandRing2_034/mixamorig7:RightHandRing3_035
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandRing1_033/mixamorig7:RightHandRing2_034/mixamorig7:RightHandRing3_035
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandRing1_033/mixamorig7:RightHandRing2_034/mixamorig7:RightHandRing3_035/mixamorig7:RightHandRing3_035_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandRing1_033/mixamorig7:RightHandRing2_034/mixamorig7:RightHandRing3_035/mixamorig7:RightHandRing3_035_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandThumb1_024
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandThumb1_024
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandThumb1_024/mixamorig7:RightHandThumb2_025
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandThumb1_024/mixamorig7:RightHandThumb2_025
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandThumb1_024/mixamorig7:RightHandThumb2_025/mixamorig7:RightHandThumb3_026
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandThumb1_024/mixamorig7:RightHandThumb2_025/mixamorig7:RightHandThumb3_026
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandThumb1_024/mixamorig7:RightHandThumb2_025/mixamorig7:RightHandThumb3_026/mixamorig7:RightHandThumb3_026_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:Neck_01/mixamorig7:RightShoulder_020/mixamorig7:RightArm_021/mixamorig7:RightForeArm_022/mixamorig7:RightHand_023/mixamorig7:RightHandThumb1_024/mixamorig7:RightHandThumb2_025/mixamorig7:RightHandThumb3_026/mixamorig7:RightHandThumb3_026_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:RightArm.001_042
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:RightArm.001_042
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:RightArm.001_042/mixamorig7:RightArm.001_042_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:RightArm.001_042/mixamorig7:RightArm.001_042_end
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:RightHand.001_040
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:RightHand.001_040
     m_Weight: 1
-  - m_Path: FPSHands/_rootJoint/mixamorig7:RightHand.001_040/mixamorig7:RightHand.001_040_end
+  - m_Path: FPSSHandsAnimations/_rootJoint/mixamorig7:RightHand.001_040/mixamorig7:RightHand.001_040_end
     m_Weight: 1
   - m_Path: Object_57
     m_Weight: 1

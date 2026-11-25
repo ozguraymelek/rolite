@@ -55,8 +55,8 @@ namespace ProcFps
 
         void Update()
         {
-            Look();
-            Move();
+            /*Look();
+            Move();*/
         }
 
         void Look()
