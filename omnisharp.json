@@ -1,0 +1,9 @@
+{
+  "MsBuild": {
+    "UseLegacySdkResolver": false,
+    "LoadProjectsOnDemand": false
+  },
+  "RoslynExtensionsOptions": {
+    "EnableImportCompletion": true
+  }
+}
